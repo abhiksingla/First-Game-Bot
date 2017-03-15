@@ -29,5 +29,5 @@ python CartPole_bot.py Hill_Climbing
 ```
 
 # Credits & Future
-I learnt this technique and code from this [article](http://kvfrans.com/simple-algoritms-for-solving-cartpole/).
+I learnt the techniques and code from this [article](http://kvfrans.com/simple-algoritms-for-solving-cartpole/).
 I will shortly add Policy Gradient method to solve this problem.
