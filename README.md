@@ -1,8 +1,6 @@
 # First-Game-Bot
 One of the simplest decision making problem is to balance a Pole straight either by moving left or right. In this, I have used OpenAI's Gym library to train a bot in the CartPole enviroment to get better over time via reinforcement learning.
 
-![el](First-Game-Bot/image.jpg)
-
 # Dependecies
 * Gym
 * Numpy
